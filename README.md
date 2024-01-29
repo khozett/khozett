@@ -1,7 +1,7 @@
 ### HELLO I'M SÉRGIO C 🤙🏽
 
-#### Me chamo Sérgio, tenho 24 anos, sou amante de programação desde pequeno e sonho em me tornar um dev.
-Atulamente estou estudando para ser um desenvolvedor android com foco primário em java e kotlin 💻👨🏽‍💻
+#### My name is Sérgio, I'm 24 years old, I've loved programming since I was little and dream of becoming a dev.
+I'm currently studying to be an Android developer with a primary focus on Java and Kotlin 💻👨🏽‍💻
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergiocsouza/)
 
