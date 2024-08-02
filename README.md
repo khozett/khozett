@@ -1,7 +1,6 @@
 ### HELLO I'M SÉRGIO C 🤙🏽
 
 #### My name is Sérgio, I'm 24 years old, I've loved programming since I was little and dream of becoming a dev.
-I'm currently studying to be an Front-end dev with a primary focus on Angular and Typescript 💻👨🏽‍💻
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergiocsouza/)
 
