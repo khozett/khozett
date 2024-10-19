@@ -1,18 +1,22 @@
-### HELLO I'M SÉRGIO C 🤙🏽
+<h1 align="center">Hi 👋, I'm Sergio</h1>
+<h3 align="center">A developer student using java</h3>
 
-#### My name is Sérgio, I'm 24 years old, I've loved programming since I was little and dream of becoming a dev.
+- 📝 I regularly write articles on [https://www.linkedin.com/in/sergiocsouza/](https://www.linkedin.com/in/sergiocsouza/)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergiocsouza/)
+- 📫 How to reach me **sergiocsouzah@gmail.com**
 
-![Sergio C GitHub stats](https://github-readme-stats.vercel.app/api?username=khozett&show_icons=true&theme=onedark)
+- 📄 Know about my experiences [I don't have experience in companies but i'm searching my first opportunity in area](I don't have experience in companies but i'm searching my first opportunity in area)
 
-### Most used languages
+- ⚡ Fun fact **Im studing java, and i want to work as dev back-end**
 
-<div style ="display: inline-block"><br> 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sérgio conceição" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sérgio conceição" height="30" width="40" /></a>
+</p>
 
-<image src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khozett&show_icons=true&locale=en&layout=compact" alt="khozett" /></p>
 
-</div><br><br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khozett&" alt="khozett" /></p>
