@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sergiocsouzah@gmail.com**
 
-- 📄 Know about my experiences [I don't have experience in companies but i'm searching my first opportunity in area](I don't have experience in companies but i'm searching my first opportunity in area)
+- 📄 Know about my experiences: I don't have experience in companies but i'm searching my first opportunity in area I don't have experience in companies but i'm searching my first opportunity in area
 
 - ⚡ Fun fact **Im studing java, and i want to work as dev back-end**
 
